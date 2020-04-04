@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Formulário laboratório</string>
+    <string name="dd_mm_aaaa">dd/mm/aaaa</string>
+    <string name="Sim" />
+    <string name="Não" />
+    <string-array name="labs_array">
+        <item>Lab01</item>
+        <item>Lab02</item>
+        <item>Lab03</item>
+    </string-array>
+</resources>
